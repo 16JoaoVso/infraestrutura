@@ -1,0 +1,6 @@
+Localhost: 3 redes (Desktop, Notebook, Smartphone)
+LAN: Rede de Área Local 
+WAN: Rede de Área Local Ampla
+
+
+
