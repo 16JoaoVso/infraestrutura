@@ -1,0 +1,29 @@
+Localhost: 3 redes (Desktop, Notebook, Smartphone)
+LAN : Rede de Área Local 
+WAN : Rede de Área Local Ampla
+=============================================================================================================================================================
+Topologia Física (Diagrama Físico)
+Topologia Lógica (Diagrama Lógico)
+    MAC Address
+    IPv4 (TCP - UDP)
+    HOSTNAME
+Configuração do Endereço IPv4 (IPv6)
+     DHCP - Dinâmico
+    Estático - Static (Manual)
+Serviços de Rede
+    DHCP Server
+    DNS Server
+    ICMP
+Opções dos Endereços IPv4
+    Ip Address : Endereço Lógico
+    Subnet Mask : Máscara de Rede
+    Gateway : Acesso a Internet
+    DNS : Tradução de Nomes
+Comandos de Verificação (Windows)
+    Ipconfig
+    Ipconfig /all
+    Ipconfig /release
+    Ipconfig /renew
+    Ping
+============================================================================================================================================================
+Na Rede Local sempre é considerada perfeita quando o tempo de resposta for menor que (>) 1ms
